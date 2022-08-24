@@ -3,36 +3,18 @@
 #### 介绍
 动漫网站批量下载-支持多个网站批量下载
 番剧下载器，支持多个网站，批量下载
-
-#### 软件架构
-软件架构说明
-
+欢迎加入讨论群 217851788
+#### 目前支持 
+omo动漫网https://omofun.tv/
+路漫漫动漫网https://www.17skr.com/
+异世界动漫网https://www.ysjdm.net/
 
 #### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  下载右侧发行版文件并解压
+2.  按照提示填写 config 里的数据
+3.  就没了
 
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+1.  把链接一行一个复制进 批量下载队列 里 再打开 下载器就可以批量下载
