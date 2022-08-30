@@ -1,7 +1,12 @@
 # 动漫网站批量下载-支持多个网站批量下载番剧
 
+### MIku镇楼图
+
+![535891FD6F12C4FAE13C1CDC50286B65](D:\python code\代码\杂项\Miku-downloader\gitee推送\README.assets\535891FD6F12C4FAE13C1CDC50286B65.jpg)
+
+原作者https://space.bilibili.com/108028760/dynamic，太太画画超级好看哦~
+
 ### 介绍
-动漫网站批量下载-支持多个网站批量下载
 
 番剧下载器，支持多个网站，批量下载
 
@@ -9,9 +14,9 @@
 
 ### 目前支持
 
-1. omo动漫网 https://omofun.tv/
+1. omo动漫网 https://omofun.tv/  已经完全适配，完美~
 2. 路漫漫动漫网 https://www.17skr.com/
-3. 异世界动漫网 https://www.ysjdm.net/
+3. 异世界动漫网 https://www.ysjdm.net/ 
 4. AcFun https://www.acfun.cn/
 5. 其他网站正在绝赞适配中 ☆ 。。。
 
